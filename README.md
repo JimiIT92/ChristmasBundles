@@ -20,7 +20,7 @@ If your idea makes it to the resource pack you'll also be mentioned in the resou
 -------------------------
 ### 🖥 Downloads
 
-You can download Christmas Bundles on [CurseForge](https://curseforge.com/minecraft/texture-packs/christmas-bundles) or [Modrinth](https://modrinth.com/project/hendrixs-christmas-bundles/versions).
+You can download Christmas Bundles on [CurseForge](https://curseforge.com/minecraft/texture-packs/christmas-bundles) or [Modrinth](https://modrinth.com/resourcepack/christmas-bundles/versions).
 
 **I will post new releases only there**.
 
