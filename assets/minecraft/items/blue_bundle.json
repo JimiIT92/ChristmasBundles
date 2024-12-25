@@ -11,21 +11,21 @@
               "type": "minecraft:condition",
               "on_false": {
                 "type": "minecraft:model",
-                "model": "christmasbundles:item/bundle"
+                "model": "christmasbundles:item/blue_bundle"
               },
               "on_true": {
                 "type": "minecraft:composite",
                 "models": [
                   {
                     "type": "minecraft:model",
-                    "model": "minecraft:item/bundle_open_back"
+                    "model": "minecraft:item/blue_bundle_open_back"
                   },
                   {
                     "type": "minecraft:bundle/selected_item"
                   },
                   {
                     "type": "minecraft:model",
-                    "model": "minecraft:item/bundle_open_front"
+                    "model": "minecraft:item/blue_bundle_open_front"
                   }
                 ]
               },
@@ -36,7 +36,7 @@
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "christmasbundles:item/bundle"
+          "model": "christmasbundles:item/blue_bundle"
         },
         "property": "minecraft:display_context"
       },
@@ -55,21 +55,21 @@
               "type": "minecraft:condition",
               "on_false": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/bundle"
+                "model": "minecraft:item/blue_bundle"
               },
               "on_true": {
                 "type": "minecraft:composite",
                 "models": [
                   {
                     "type": "minecraft:model",
-                    "model": "minecraft:item/bundle_open_back"
+                    "model": "minecraft:item/blue_bundle_open_back"
                   },
                   {
                     "type": "minecraft:bundle/selected_item"
                   },
                   {
                     "type": "minecraft:model",
-                    "model": "minecraft:item/bundle_open_front"
+                    "model": "minecraft:item/blue_bundle_open_front"
                   }
                 ]
               },
@@ -80,7 +80,7 @@
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "minecraft:item/bundle"
+          "model": "minecraft:item/blue_bundle"
         },
         "property": "minecraft:display_context"
     },
